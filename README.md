@@ -27,15 +27,16 @@ The map shows the geographical distribution of population in Nigeria for 2006 an
 # Comparison and Conclusion
 The analysis of the population trend in Nigeria reveals a steady increase in  population over the thirteen - year period. The line graph illustrates a consistent upward trend with a total increase of 58,183,000 people between 2006 and 2019. 
 
-The map analysis shows that the population growth is concentrated in urban areas with cities like Lagos, Portharcourt experiencing significant increase in population. It also highlights the regional disparities in population growth.
+The map analysis shows that the population growth is concentrated in urban areas with cities like Lagos, Kano, Rivers and Sokoto experiencing significant increase in population. It also highlights the regional disparities in population growth.
 
 Overall,the analysis suggests that the population of Nigeria is continuing to grow with urban areas driving the growth. These findings have important implications for policymakers, urban planners and demographers who must consider the challenges and opportunities presented by this growing population.
 
 # Recommendations
+1. The steady increase in population in urban areas as shown in the map, highlights the need for effective Urban planning. Policymakers should focus on developing sustainable and livable cities, With adequate infrastructure, housing and transportation.
+2. Policymaker should prioritize regional development initiatives due to the disparities in regional population growth. This could include investing infrastructure, education and healthcare in rural areas.
+3. The growing population as shown in the line graph, will require significant investments in infrastructure, including roads, public transportation and utilities. Policymakers should prioritize infrastructure development to support the growing population.
+4. The growing population, as shown in the line graph, highlights the need for sustainable development practices. Policymakers should prioritize sustainable development initiatives, including renewable energy, green infrastructure and waste management.
 
-
-
-Population Distribution  2019
 
 
 ![MAP 2](https://github.com/user-attachments/assets/ac299681-b838-416f-b607-dc0d3522612a)
