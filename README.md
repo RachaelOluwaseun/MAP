@@ -1,10 +1,10 @@
 # MAP
-##[Introduction](introduction)
-##[Data Analysis](data-analysis)
-##[Line Graph](line-graph)
-##[Map](map)
-##[Comparison and Conclusion](comparison-and-conclusion)
-##[Recommendations](recommendations)
+## [Introduction](introduction)
+## [Data Analysis](data-analysis)
+## [Line Graph](line-graph)
+## [Map](map)
+## [Comparison and Conclusion](comparison-and-conclusion)
+## [Recommendations](recommendations)
 
 # Introduction
 This report analyzes the population trend in Nigeria between 2006 and 2019. The data was obtained from kaggle.com. This report aims to highlight the changes in population over two - year period and provide insights into the geographical distribution of population.
