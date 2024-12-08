@@ -24,10 +24,12 @@ The graph shows a steady increase in population over the thirteen - year period.
 # Map
 The map shows the geographical distribution of population in Nigeria for 2006 and 2019.
 
-Population Distribution  2006
-
 # Comparison and Conclusion
-The population data of Nigeria increased by 58,183,000 people between 2006 and 2019. The line graph illustrates a consistent upward trend geographical distribution of population shows that urban area continue to attract more people. This increase in population can be attributed to various factors such as birth rates and migration.
+The analysis of the population trend in Nigeria reveals a steady increase in  population over the thirteen - year period. The line graph illustrates a consistent upward trend with a total increase of 58,183,000 people between 2006 and 2019. 
+
+The map analysis shows that the population growth is concentrated in urban areas with cities like Lagos, Portharcourt experiencing significant increase in population. It also highlights the regional disparities in population growth.
+
+Overall,the analysis suggests that the population of Nigeria is continuing to grow with urban areas driving the growth. These findings have important implications for policymakers, urban planners and demographers who must consider the challenges and opportunities presented by this growing population.
 
 # Recommendations
 
