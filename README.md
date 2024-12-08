@@ -16,6 +16,7 @@ The population data for 2006 and 2019 was collected from kaggle.com. The data sh
 The line graph below illustrates the population trend from 2006 to 2019.
 ####  | Year  | Population |      
  | 2006  | 136,550,382|
+ 
  | 2019  | 195,733,382|
 
 The graph shows a steady increase in population over the two - year period.
