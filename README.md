@@ -27,7 +27,7 @@ The map shows the geographical distribution of population in Nigeria for 2006 an
 Population Distribution  2006
 
 # Comparison and Conclusion
-
+The population data of Nigeria increased by 58,183,000 people between 2006 and 2019. 
 # Recommendations
 
 
