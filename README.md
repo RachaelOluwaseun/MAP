@@ -7,7 +7,7 @@
 ## [Recommendations](recommendations)
 
 # Introduction
-This report analyzes the population trend in Nigeria between 2006 and 2019. The data was obtained from kaggle.com. This report aims to highlight the changes in population over two - year period and provide insights into the geographical distribution of population.
+This report analyzes the population trend in Nigeria between 2006 and 2019. The data was obtained from kaggle.com. This report aims to highlight the changes in population over thirteen - year period and provide insights into the geographical distribution of population.
 
 # Data Analysis
 The population data for 2006 and 2019 was collected from kaggle.com. The data shows that the population of Nigeria increased from 136,550,382 in 2006 to 195,733,382 in 2019.
@@ -29,12 +29,12 @@ The analysis of the population trend in Nigeria reveals a steady increase in  po
 
 The map analysis shows that the population growth is concentrated in urban areas with cities like Lagos, Kano, Rivers and Sokoto experiencing significant increase in population. It also highlights the regional disparities in population growth.
 
-Overall,the analysis suggests that the population of Nigeria is continuing to grow with urban areas driving the growth. These findings have important implications for policymakers, urban planners and demographers who must consider the challenges and opportunities presented by this growing population.
+Overall, the analysis suggests that the population of Nigeria is continuing to grow with urban areas driving the growth. These findings have important implications for policymakers, urban planners and demographers who must consider the challenges and opportunities presented by this growing population.
 
 # Recommendations
-1. The steady increase in population in urban areas as shown in the map, highlights the need for effective Urban planning. Policymakers should focus on developing sustainable and livable cities, With adequate infrastructure, housing and transportation.
+1. The steady increase in population, in urban areas as shown in the map, highlights the need for effective Urban planning. Policymakers should focus on developing sustainable and livable cities, with adequate infrastructure, housing and transportation.
 2. Policymaker should prioritize regional development initiatives due to the disparities in regional population growth. This could include investing infrastructure, education and healthcare in rural areas.
-3. The growing population as shown in the line graph, will require significant investments in infrastructure, including roads, public transportation and utilities. Policymakers should prioritize infrastructure development to support the growing population.
+3. The growing population, as shown in the line graph, will require significant investments in infrastructure, including roads, public transportation and utilities. Policymakers should prioritize infrastructure development to support the growing population.
 4. The growing population, as shown in the line graph, highlights the need for sustainable development practices. Policymakers should prioritize sustainable development initiatives, including renewable energy, green infrastructure and waste management.
 
 
